@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="587a17f2-c741-4fb6-a737-554c797d694c" name="Default Changelist" comment="" />
+    <list default="true" id="587a17f2-c741-4fb6-a737-554c797d694c" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -53,19 +55,16 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/thread/create_way/CreateWay.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="196">
-              <caret line="34" column="5" selection-start-line="12" selection-start-column="43" selection-end-line="34" selection-end-column="5" />
+            <state relative-caret-position="504">
+              <caret line="73" column="49" selection-start-line="73" selection-start-column="49" selection-end-line="73" selection-end-column="49" />
               <folding>
                 <element signature="docComment;class#CreateWay#0" />
-                <element signature="method#main#0;class#CreateWay#0" />
                 <element signature="e#268#289#0" />
                 <element signature="docComment;class#WorkThread#0;class#CreateWay#0" />
                 <element signature="class#WorkThread#0;class#CreateWay#0" />
                 <element signature="method#run#0;class#WorkThread#0;class#CreateWay#0" />
                 <element signature="docComment;class#WorkRunnable#0;class#CreateWay#0" />
                 <element signature="class#WorkRunnable#0;class#CreateWay#0" />
-                <element signature="docComment;class#MyCallable#0;class#CreateWay#0" />
-                <element signature="class#MyCallable#0;class#CreateWay#0" />
               </folding>
             </state>
           </provider>
@@ -98,6 +97,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
@@ -114,12 +116,13 @@
     </option>
   </component>
   <component name="PhpDebugGeneral" listening_started="true" />
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-10" />
     <option name="y" value="-10" />
     <option name="width" value="1939" />
     <option name="height" value="385" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -141,6 +144,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
     <property name="aspect.path.notification.shown" value="true" />
@@ -224,15 +228,16 @@
       <workItem from="1611628608228" duration="13800000" />
       <workItem from="1612668648821" duration="5535000" />
       <workItem from="1612750929426" duration="12800000" />
-      <workItem from="1613724030495" duration="1119000" />
+      <workItem from="1613724030495" duration="2507000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="33254000" />
+    <option name="totallyTimeSpent" value="34642000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="838" extended-state="7" />
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2600536" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -349,22 +354,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/thread/create_way/CreateWay.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="196">
-          <caret line="34" column="5" selection-start-line="12" selection-start-column="43" selection-end-line="34" selection-end-column="5" />
+        <state relative-caret-position="504">
+          <caret line="73" column="49" selection-start-line="73" selection-start-column="49" selection-end-line="73" selection-end-column="49" />
           <folding>
             <element signature="docComment;class#CreateWay#0" />
-            <element signature="method#main#0;class#CreateWay#0" />
-            <element signature="e#266#973#0" />
             <element signature="e#268#289#0" />
             <element signature="docComment;class#WorkThread#0;class#CreateWay#0" />
             <element signature="class#WorkThread#0;class#CreateWay#0" />
             <element signature="method#run#0;class#WorkThread#0;class#CreateWay#0" />
             <element signature="docComment;class#WorkRunnable#0;class#CreateWay#0" />
             <element signature="class#WorkRunnable#0;class#CreateWay#0" />
-            <element signature="e#1202#1203#0" expanded="true" />
-            <element signature="e#1264#1265#0" expanded="true" />
-            <element signature="docComment;class#MyCallable#0;class#CreateWay#0" />
-            <element signature="class#MyCallable#0;class#CreateWay#0" />
           </folding>
         </state>
       </provider>
